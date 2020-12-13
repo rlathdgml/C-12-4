@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(Prj06.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  calcptr.c
+E:\2020-2 C coding\ch08\Prj06\calcptr.c(9,10): warning C4047: '=': 'double *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+E:\2020-2 C coding\ch08\Prj06\calcptr.c(11,73): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+E:\2020-2 C coding\ch08\Prj06\calcptr.c(11,73): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 3개 필요하지만 4개가 제공되었습니다.
+E:\2020-2 C coding\ch08\Prj06\calcptr.c(12,73): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+E:\2020-2 C coding\ch08\Prj06\calcptr.c(12,73): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 3개 필요하지만 4개가 제공되었습니다.
+E:\2020-2 C coding\ch08\Prj06\calcptr.c(13,73): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+E:\2020-2 C coding\ch08\Prj06\calcptr.c(13,73): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 3개 필요하지만 4개가 제공되었습니다.
+  Prj06.vcxproj -> E:\2020-2 C coding\ch08\Debug\Prj05.exe
